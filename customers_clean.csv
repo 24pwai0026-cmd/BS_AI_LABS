@@ -1,0 +1,16 @@
+CustomerID,Name,Age,Gender,City,Income
+101,Ali,25.0,M,Lahore,50000.0
+102,Sara,32.5,F,Karachi,70000.0
+103,Ahmed,35.0,M,Lahore,60384.61538461538
+104,Fatima,32.75,F,Karachi,45000.0
+105,Usman,45.0,M,Islamabad,120000.0
+106,Ayesha,28.0,F,Lahore,38000.0
+107,Bilal,32.75,M,Karachi,95000.0
+108,Zara,32.5,F,Islamabad,62000.0
+109,Hassan,32.0,M,Lahore,60384.61538461538
+110,Nadia,55.0,F,Lahore,60384.61538461538
+111,Omar,22.0,M,Karachi,48000.0
+112,Sana,40.0,F,Islamabad,85000.0
+113,Tariq,32.75,M,Lahore,55000.0
+114,Hira,60.0,F,Karachi,72000.0
+115,Kamran,33.0,M,Islamabad,60384.61538461538
